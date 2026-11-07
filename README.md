@@ -19,7 +19,7 @@ It will store and create relationships between information concerning the users,
 
 ## ER Diagram: Shows Entities, Attributes, and Relationships
 
-Note: [Here is a link](Note: Here is a link, ERD_draw.io, to view the ER Diagram in a closer view when opened with draw.io.), ERD_draw.io, to view the ER Diagram in a closer view when opened with draw.io.
+![ERD](ERD.svg "ERD")
 
 ## Design Decisions / Assumptions
 
